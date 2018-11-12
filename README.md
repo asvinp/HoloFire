@@ -1,5 +1,5 @@
 # HoloFire
-HoloLens App for Fire Safety Training
+HoloLens App for Fire Safety Training - https://www.sjsuvrlab.org/project_holofire.html
 ***********
 
 The HoloFire project utilized emerging AR technologies to create a training system designed to build skills for combatting fire emergencies, operate calmly under stressful situations, and reduce unnecessary workload for firefighters.
