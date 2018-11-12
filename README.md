@@ -8,6 +8,7 @@ Heads-Up Display Features
 The HUD is the UI that can be seen when a scenario is started and will remain on top of a user’s view as an overlay throughout a scenario. It consists of seven primary components and can be seen in Figure 5.
  
 Timer
+
 The amount of time left to complete the scenario is shown in the bottom right corner of the user’s perspective. The time is displayed only at beginner levels. In advanced levels, the time will not be displayed to give the user a sense of realism as, in reality, one would not know exactly how much time they have left in a burning building. The timer was designed to turn red and blink during the last 10 seconds of the scenario in order to emphasize a sense of urgency to the user. 
  
 Temperature Sensor
