@@ -6,7 +6,7 @@ The HoloFire project utilizes Microsoft HoloLens in order to create a training s
 
 ### Heads-Up Display Features
  
-The HUD is the UI that can be seen when a scenario is started and will remain on top of a user’s view as an overlay throughout a scenario. It consists of seven primary components and can be seen in Figure 5.
+The HUD is the UI that can be seen when a scenario is started and will remain on top of a user’s view as an overlay throughout a scenario. It consists of seven primary components.
  
 ##### Timer
 
@@ -30,7 +30,7 @@ The posture indicator shows the current posture the HoloLens assumes the user is
  
 ##### Hints
 
-The hints bar is positioned at the top of the HUD and is only available at beginner levels as it is to give the user tips on how to successfully escape the fire. For example, the user is hinted to crouch and move forward in a very smoky area as shown in Figure 11, above.
+The hints bar is positioned at the top of the HUD and is only available at beginner levels as it is to give the user tips on how to successfully escape the fire. For example, the user is hinted to crouch and move forward in a very smoky area.
 
 ##### Directional Indicator
 
