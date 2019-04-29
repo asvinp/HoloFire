@@ -1,6 +1,5 @@
-# [HoloFire](https://www.sjsuvrlab.org/project_holofire.html)
-## HoloLens App for Fire Safety Training
-https://www.sjsuvrlab.org/project_holofire.html
+# HoloFire
+## [HoloLens App for Fire Safety Training](https://www.sjsuvrlab.org/project_holofire.html)
 ***********
 
 The HoloFire project utilizes Microsoft HoloLens in order to create a training system designed to build skills for combating fire emergencies, operate calmly under stressful situations, and reduce unnecessary workload for firefighters. Users are educated on crucial actions to take and factors to consider in order to survive and escape a burning building. The HoloLens simulates fire and smoke to construct scenarios and a Heads-up Display to help the users navigate through each scenario.
